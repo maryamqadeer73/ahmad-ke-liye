@@ -1,0 +1,3 @@
+Optional soft music (.mp3), only if you have the right to use it.
+In src/data/story.js set:  musicSrc: 'audio/soft.mp3'   (no slash at the start)
+It never autoplays.

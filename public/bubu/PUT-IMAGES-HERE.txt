@@ -1,0 +1,4 @@
+Put your own couple stickers/images here (only ones you have the right to use).
+Recommended: .webp, ~800px wide, transparent background.
+Then in src/data/story.js -> config.sceneImages write the path WITHOUT a slash at the start:
+  'late-night': 'bubu/late-night.webp',
